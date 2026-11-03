@@ -1,0 +1,5 @@
+renders/
+outils/refs/
+*_backup_*
+.DS_Store
+__pycache__/

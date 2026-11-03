@@ -1,0 +1,374 @@
+{
+ "note": "Tout est fait maison et sur place. Prix en euros.",
+ "sections": [
+  {
+   "id": "entrees",
+   "title": "Entrées",
+   "items": [
+    {
+     "n": "Guacamole",
+     "p": "10 / 16",
+     "d": "petit ou grand"
+    },
+    {
+     "n": "Calabacitas",
+     "p": "10 / 16",
+     "d": "petit ou grand"
+    },
+    {
+     "n": "Nachos",
+     "p": "10 / 16",
+     "d": "chips artisanales, chili con carne ou calabacitas"
+    },
+    {
+     "n": "Mix",
+     "p": "24",
+     "d": "guacamole, calabacitas, nachos et patatas avec mayonnaise au chipotle, quesadillas"
+    }
+   ]
+  },
+  {
+   "id": "specialites",
+   "title": "Spécialités",
+   "items": [
+    {
+     "n": "300 g d'Arrachera",
+     "p": "27",
+     "d": "hampe de bœuf cuisinée à la plancha, riz, guacamole, quesadilla, petites pommes de terre et salade"
+    },
+    {
+     "n": "Mole Poblano",
+     "p": "28",
+     "d": "cuisse de poulet recouverte de sauce mole poblano (cacao et épices), sésame, riz, crème de haricots rouges et petites pommes de terre"
+    },
+    {
+     "n": "200 g de Gambas",
+     "p": "27",
+     "d": "gambas Black Tiger à la plancha, tomates, pommes de terre, ail et persil frais. Riz, guacamole, quesadilla, petites pommes de terre et salade"
+    },
+    {
+     "n": "Calabacitas",
+     "p": "23",
+     "d": "courgettes, aubergines, carottes, tomates, maïs, oignons rouges cuits dans une marinade de tomates, crème fraîche et fromage de brebis. Riz, crème de haricots rouges, petites pommes de terre",
+     "v": true
+    },
+    {
+     "n": "Enchiladas verdes",
+     "p": "20",
+     "d": "deux tortillas de maïs garnies au choix (poulet, cactus et champignons, bœuf, gambas +2), sauce de tomates vertes, crème fraîche, fromage de brebis, oignons rouges",
+     "v": true
+    },
+    {
+     "n": "Enchiladas mole",
+     "p": "23",
+     "d": "idem, arrosées de sauce mole (cacao, cacahuètes, épices et sésame)",
+     "v": true
+    }
+   ]
+  },
+  {
+   "id": "tacos",
+   "title": "Tacos",
+   "items": [
+    {
+     "n": "Arrachera",
+     "p": "14 / 16",
+     "d": "hampe de bœuf marinée (ou pas) à la bière mexicaine. Avec fromage 16"
+    },
+    {
+     "n": "Gaulois",
+     "p": "14",
+     "d": "poulet mijoté puis cuit à la plancha avec champignons de Paris, arrosé d'un shot de chardonnay, mozzarella"
+    },
+    {
+     "n": "Mole",
+     "p": "15",
+     "d": "poulet mariné à la sauce mole (cacao, épices, cacahuètes) sur crème de haricots rouges et riz, sésame"
+    },
+    {
+     "n": "Cactus",
+     "p": "15 / 17",
+     "d": "nopales (cactus), champignons de Paris, pommes de terre. Avec fromage 17",
+     "v": true
+    },
+    {
+     "n": "Magret",
+     "p": "15",
+     "d": "magret de canard fumé"
+    },
+    {
+     "n": "Gambas",
+     "p": "15",
+     "d": "gambas, patatas, ail, persil, mozzarella et mimolette"
+    },
+    {
+     "n": "Calabacitas",
+     "p": "14",
+     "d": "courgettes, aubergines, carottes, maïs, tomates, crème fraîche et brebis",
+     "v": true
+    },
+    {
+     "n": "Combo Amigos",
+     "p": "42",
+     "d": "à partager"
+    },
+    {
+     "n": "Margarita Combo",
+     "p": "77",
+     "d": "tacos + litre de margarita"
+    }
+   ],
+   "intro": "Trois galettes de maïs, un peu de guacamole, servis avec patatas ou chips.",
+   "icon": "tacos_icons",
+   "gf": true
+  },
+  {
+   "id": "tortas",
+   "title": "Tortas",
+   "intro": "Sandwich à la plancha typique de Mexico : pain artisanal, une couche de guacamole, puis la garniture.",
+   "items": [
+    {
+     "n": "Mexicaine",
+     "p": "14",
+     "d": "bœuf (hampe), champignons de Paris, pommes de terre et mozzarella"
+    },
+    {
+     "n": "Cancún",
+     "p": "14",
+     "d": "jambon de Paris ou poulet, ananas, mozzarella"
+    },
+    {
+     "n": "Cubana",
+     "p": "18",
+     "d": "bœuf, poulet, jambon, champignons de Paris, pommes de terre, mozzarella et mimolette"
+    },
+    {
+     "n": "Gambas",
+     "p": "19",
+     "d": "gambas, ail, persil, pommes de terre, tomates, mozzarella et mimolette"
+    },
+    {
+     "n": "Parisienne",
+     "p": "14",
+     "d": "poulet ou jambon, champignons de Paris et mozzarella"
+    },
+    {
+     "n": "Veggie",
+     "p": "15",
+     "d": "cactus nopal, champignons de Paris, pommes de terre et mozzarella",
+     "v": true
+    },
+    {
+     "n": "Calabacitas",
+     "p": "14",
+     "d": "courgettes, aubergines, carottes, maïs, tomates, mozzarella",
+     "v": true
+    },
+    {
+     "n": "La Marciana",
+     "p": "22",
+     "d": "nos exotiques : gambas, magret de canard, mozzarella, mimolette et extra guacamole"
+    },
+    {
+     "n": "La Cabrona",
+     "p": "20",
+     "d": "nos exotiques : bœuf, jambon, gambas, mozzarella et extra guacamole"
+    }
+   ]
+  },
+  {
+   "id": "burritos",
+   "title": "Burritos",
+   "items": [
+    {
+     "n": "Magret",
+     "p": "15",
+     "d": "magret de canard fumé, patatas"
+    },
+    {
+     "n": "Pollo",
+     "p": "14",
+     "d": "poulet et tomates"
+    },
+    {
+     "n": "Gambas",
+     "p": "15",
+     "d": "gambas, pommes de terre, ail et persil"
+    },
+    {
+     "n": "Chili con carne",
+     "p": "14"
+    },
+    {
+     "n": "Calabacitas",
+     "p": "14",
+     "d": "courgettes, carottes, aubergines, maïs, tomates cuits dans une sauce rouge, touche de crème fraîche et fromage de brebis",
+     "v": true
+    },
+    {
+     "n": "Cactus",
+     "p": "15",
+     "d": "cactus nopal, champignons de Paris, pommes de terre",
+     "v": true
+    }
+   ]
+  },
+  {
+   "id": "quesadillas",
+   "title": "Quesadillas",
+   "items": [
+    {
+     "n": "Nature medium",
+     "p": "7",
+     "d": "crème, frijoles et fromage"
+    },
+    {
+     "n": "Nature grande",
+     "p": "10",
+     "d": "crème, frijoles et fromage"
+    },
+    {
+     "n": "Suppléments",
+     "p": "2 à 3,5"
+    }
+   ]
+  },
+  {
+   "id": "desserts",
+   "title": "Desserts",
+   "items": [
+    {
+     "n": "Gâteau au cacao mexicain et mezcal",
+     "p": "8",
+     "d": "chantilly et agrumes"
+    },
+    {
+     "n": "Baba au mezcal",
+     "p": "8"
+    },
+    {
+     "n": "Dessert du moment",
+     "p": "",
+     "d": "demandez-nous"
+    }
+   ]
+  },
+  {
+   "id": "cocktails",
+   "title": "Cocktails",
+   "items": [
+    {
+     "n": "Margarita",
+     "p": "12"
+    },
+    {
+     "n": "Mezcalita",
+     "p": "14"
+    },
+    {
+     "n": "Mezcal Sour",
+     "p": "15"
+    },
+    {
+     "n": "Ti Punch",
+     "p": "10"
+    },
+    {
+     "n": "Mezcal Mule",
+     "p": "14"
+    },
+    {
+     "n": "Mezcalfé",
+     "p": "15"
+    },
+    {
+     "n": "Mojito",
+     "p": "12"
+    },
+    {
+     "n": "Cosmopolitan, Moscow Mule",
+     "p": "12"
+    },
+    {
+     "n": "Litre de Margarita",
+     "p": "62"
+    },
+    {
+     "n": "Michelada",
+     "p": "9",
+     "d": "bière bouteille, citron vert, chamoy, sel tajín, maggi"
+    },
+    {
+     "n": "Michelada Clamato",
+     "p": "10"
+    }
+   ]
+  },
+  {
+   "id": "vins",
+   "title": "Vins & bières",
+   "items": [
+    {
+     "n": "Arata Tinto, grenache 2019",
+     "p": "29",
+     "d": "vin mexicain, bouteille"
+    },
+    {
+     "n": "Clandestino Tinto ou Blanco, grenache 2019",
+     "p": "29",
+     "d": "vin mexicain, bouteille"
+    },
+    {
+     "n": "Vino de Piedra 2018",
+     "p": "59",
+     "d": "vin mexicain, bouteille"
+    },
+    {
+     "n": "Chardonnay, Ribeaupierre VDF 2016",
+     "p": "4 / 12",
+     "d": "au verre 12 cl ou 50 cl"
+    },
+    {
+     "n": "Merlot, Ribeaupierre VDF 2016",
+     "p": "4 / 12",
+     "d": "au verre 12 cl ou 50 cl"
+    },
+    {
+     "n": "Corona 35,5 cl",
+     "p": "7"
+    },
+    {
+     "n": "San Miguel 35,5 cl",
+     "p": "5"
+    },
+    {
+     "n": "Pression 25 cl / 50 cl",
+     "p": "4,5 / 8",
+     "d": "IPA +1,5"
+    }
+   ]
+  },
+  {
+   "id": "softs",
+   "title": "Sans alcool",
+   "items": [
+    {
+     "n": "Jus d'hibiscus",
+     "p": "5"
+    },
+    {
+     "n": "Limonade de citrons verts",
+     "p": "5"
+    },
+    {
+     "n": "Jus du jour",
+     "p": "5"
+    },
+    {
+     "n": "Coca, Coca zéro, ice tea 33 cl",
+     "p": "4"
+    }
+   ]
+  }
+ ]
+}
